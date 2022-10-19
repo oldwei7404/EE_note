@@ -1,0 +1,4 @@
+ExecSentinelCpaSim
+SetNumCpus 16
+UseHpcLicenses pool
+WaitForLicense 1
